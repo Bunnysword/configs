@@ -19,6 +19,5 @@ cp bugs.png ~/.config/kdedefaults/
 mv bugs.png ~/.config/fastfetch/
 mv config.jsonc ~/.config/fastfetch/
 
-plasma-apply-colorscheme SwordColors
 sudo mv nvidia-kms.conf /etc/modprobe.d/
 sudo mv environment /etc
