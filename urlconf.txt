@@ -5,6 +5,7 @@ https://raw.githubusercontent.com/Bunnysword/configs/refs/heads/main/conf/config
 https://raw.githubusercontent.com/Bunnysword/configs/refs/heads/main/conf/fish_prompt.fish
 https://raw.githubusercontent.com/Bunnysword/configs/refs/heads/main/conf/nvidia-kms.conf
 https://raw.githubusercontent.com/Bunnysword/configs/refs/heads/main/conf/environment
+https://raw.githubusercontent.com/Bunnysword/configs/refs/heads/main/conf/kde/plasmaparc
 https://raw.githubusercontent.com/Bunnysword/configs/refs/heads/main/conf/kde/SwordColors.colors
 https://raw.githubusercontent.com/Bunnysword/configs/refs/heads/main/conf/kde/WhiteOnBlack.colorscheme
 https://raw.githubusercontent.com/Bunnysword/configs/refs/heads/main/conf/kde/breezerc
